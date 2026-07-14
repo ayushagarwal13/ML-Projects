@@ -1,1 +1,1 @@
-This repository contains I have made using machine learning.
+This repository contains some of the projects I have build using machine learning.
